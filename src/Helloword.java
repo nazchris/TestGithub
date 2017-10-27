@@ -6,7 +6,7 @@ public class Helloword {
 //<<<<<<< HEAD
 		System.out.println("lui");
 //=======
-		System.out.println("Bonjour");
+		System.out.println("Prog github local modifier");
 //>>>>>>> refs/heads/Christian
 
 	}
